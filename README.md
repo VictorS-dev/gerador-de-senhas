@@ -16,4 +16,4 @@ Projeto simples e funcional de um gerador de senhas feito com HTML, CSS e JavaSc
 
 ## 💻 Preview
 
-🔗 [Clique aqui para ver online](https://victors-dev.github.io/gerador-de-senhas/)
+🔗 [Clique aqui para ver online] (https://victors-dev.github.io/gerador-de-senhas/)
